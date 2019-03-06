@@ -46,13 +46,13 @@ arr
 end
 
 def using_delete_at(arr,int)
-  i = 0 
+  i = 0
   while i < arr.length
     if arr[i] == int
 arr.delete_at(int)
-end 
+end
 i+=1
-end 
+end
 
 arr
 end
