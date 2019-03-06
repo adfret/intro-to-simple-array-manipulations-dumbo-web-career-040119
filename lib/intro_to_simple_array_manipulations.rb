@@ -52,6 +52,6 @@ def using_delete_at(arr,int)
 deleted = arr.delete_at(int)
 # end
 # i+=1
-end
+# end
 deleted
 end
