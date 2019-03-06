@@ -41,13 +41,7 @@ arr.flatten
 end
 
 def using_delete(arr,string)
-i = 0
-while i < arr.length
-  if arr[i] == string
-    arr.delete(i)
-  end
-  i+=1
-end
+arr.delete(string)
 arr
 end
 
