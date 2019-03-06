@@ -38,4 +38,4 @@ end
 
 def using_flatten(arr=[[],[],[]])
 arr.flatten
-end 
+end
