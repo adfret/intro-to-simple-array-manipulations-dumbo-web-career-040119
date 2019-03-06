@@ -59,4 +59,5 @@ def using_delete(arr,int)
     end
     i+=1
   end
+  arr
 end
