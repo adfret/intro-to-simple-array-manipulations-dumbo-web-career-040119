@@ -48,6 +48,7 @@ while i < arr.length
   end
   i+=1
 end
+arr
 end
 
 def using_delete(arr,int)
