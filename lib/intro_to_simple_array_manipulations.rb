@@ -27,3 +27,7 @@ end
 def using_concat(arr,array)
   arr.concat(array)
 end
+
+def using_insert(arr, element)
+  arr.insert(element)
+end 
