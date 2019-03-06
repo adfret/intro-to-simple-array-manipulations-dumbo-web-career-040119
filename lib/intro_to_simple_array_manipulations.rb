@@ -53,6 +53,4 @@ arr.delete_at(int)
 end
 i+=1
 end
-
-arr
 end
